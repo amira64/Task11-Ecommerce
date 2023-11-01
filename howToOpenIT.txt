@@ -1,0 +1,15 @@
+ Tips for running angular client application
+
+ng s --port 4204
+
+
+git it from:
+ Download this Angular Project
+https://github.com/voidChetan/eCommerce/tree/main
+https://youtu.be/adaRRTIiwWk
+
+
+
+WEBAPI LINK:
+http://onlinetestapi.gerasim.in/api/Ecomm/GetAllProducts
+https://onlinetestapi.gerasim.in/index.html
